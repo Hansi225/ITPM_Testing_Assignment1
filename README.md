@@ -8,8 +8,11 @@
 Run these commands one by one in Command Prompt:
 
 pip install -U pip
+
 pip install playwright openpyxl
+
 playwright install
+
 
 ## How to Run Tests
 Run this command in Command Prompt from inside the test_automation folder:
